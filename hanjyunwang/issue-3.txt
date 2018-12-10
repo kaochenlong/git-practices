@@ -1,0 +1,5 @@
+方法一：
+git reset ORIG_HEAD --hard
+
+方法二：
+git reset 271aebb --hard

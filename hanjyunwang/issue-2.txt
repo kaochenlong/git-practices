@@ -1,0 +1,8 @@
+首先先移動 HEAD 至 cat
+git checkout cat
+
+方法一：
+git merge dog 
+
+方法二：
+git rebase dog

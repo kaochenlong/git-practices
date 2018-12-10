@@ -1,0 +1,9 @@
+「相對路徑法」
+1. git reset HEAD^^ --hard
+2. git reset HEAD~2 --hard
+
+「絕對路徑法」
+3. git reset 978d771 --hard
+
+「移動HEAD」
+4. git checkout 978d771
