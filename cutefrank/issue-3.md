@@ -1,0 +1,1 @@
+1. **git reset ORIG_HEAD --hard**
