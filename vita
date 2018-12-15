@@ -1,0 +1,11 @@
+
+第一題:
+git checkout 978d771
+git reset HEAD~2
+
+第二題:
+git checkout cat
+git merge dog / git rebase dog
+
+第三題:
+git reset ORIG_HEAD --hard
